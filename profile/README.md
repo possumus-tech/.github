@@ -1,53 +1,104 @@
-# ¡Hola! Bienvenido al Github de Possumus
+<div align="center">
 
-Para crear un nuevo repositorio o realizar algún otro tipo de cambio que requiera de permisos especiales, solicitalo en el Team de Staff etiquetando a Andrés Gomez/Mario Cuevas/Javier Valdivieso.
+# Possumus
 
-## Repositorios
+### Engineering technology into sustainable business capabilities
 
-Los repositorios siguen el siguiente esquema de nombrado:
+We help organizations design, build, operate, and scale digital solutions through software engineering, cloud, security, data, AI, and technology adoption.
 
-### Repositorios de clientes
+[Website](https://possumus.tech/) · [LinkedIn](https://ar.linkedin.com/company/possumustech) · [Insights](https://grow.possumus.tech/es) · [Careers](https://careers.possumus.tech/jobs)
 
-`client-{client-name}-{project-name}-{repo-contents}`
+</div>
 
-Ejemplos: 
+---
 
-`client-biotech-helpdesk-front` es un repositorio de cliente externo, siendo el cliente Biotech, el proyecto Help Desk, conteniendo el repo el frontend del proyecto.
-`client-superapps-weather-android` es un repositorio de cliente externo, siendo el cliente Superapps, el proyecto Weather, conteniendo el repo la aplicación Android.
+## About Us
 
-### Repositorios internos
+Possumus is a technology company that helps organizations design, build, modernize, and operate digital solutions.
 
-`internal-{repo-contents}`
+Our capabilities span software engineering, cloud platforms, data and AI, security, automation, and technology adoption. We combine engineering practices with the Microsoft technology ecosystem to build solutions designed for reliable operation, continuous evolution, and sustainable adoption.
 
-### Repositorios de productos internos
+Possumus is a Microsoft Solutions Partner with capabilities across the Microsoft Cloud ecosystem.
 
-`internal-product-{product-name}-{repo-contents}`
+## What We Do
 
-Ejemplos:
+### AI & Data
 
-`internal-product-paaxio-portal-ui`es un repositorio de producto interno, siendo el producto Paax.io, conteniendo el repo el portal UI.
+We build data and AI solutions for analytics, automation, intelligent applications, and AI-powered experiences.
 
-## Acceso a Github y permisos sobre repositorios
+Our approach brings together data engineering, analytics, artificial intelligence, Data Governance, and MLOps, connecting solution development with deployment, monitoring, traceability, and continuous evolution.
 
-### Colaboradores Internos
+### Security
 
-En el caso de colaboradores internos, deben ser invitados a la organización utilizando su cuenta de Github personal (u otra cuenta que se haya creado, en caso que no quiera utilizar la personal). Una vez aceptada la 
-invitación, Github solicitará la vinculación con el SSO de Possumus, quedando así vinculada la cuenta de Github a su identidad en Possumus.
+We help organizations protect identities, data, applications, endpoints, and cloud environments.
 
-El control de permisos se hace mediante equipos (Teams) de Github, sincronizados con grupos en Microsoft Entra ID. Por ello, para poder acceder a los repositorios correspondientes, la cuenta de Possumus del colaborador debe estar asignada al grupo correspondiente a su equipo en Microsoft Entra ID.
+Our capabilities include identity and access management, data governance, threat protection, detection and response, security posture improvement, and the implementation of security controls across cloud and enterprise environments.
 
-#### Ejemplo
+### Cloud & Platform Engineering
 
-Si el dev Juan Perez (`juan.perez@possumus.tech`) necesita accesos al repositorio `client-superapps-weather-android`, los pasos son:
+We design and implement cloud platforms and engineering capabilities that improve reliability, observability, governance, security, and delivery.
 
-1- Invitar a Juan Perez a la organización en Github con su cuenta personal (ej: `juanperez_1990`)
+Our work includes cloud architecture, modernization, platform engineering, workload protection, operational enablement, and the adoption of engineering practices that help teams build and operate technology at scale.
 
-2- Juan Perez acepta la invitación y Github le solicita la vinculación con su cuenta de Possumus, `juan.perez@possumus.tech`
+### AI-Augmented Software Engineering
 
-3- Para poder ver el repositorio `client-superapps-weather-android`, Juan debe ser agregado al grupo de EntraID correspondiente a su rol en el proyecto en cuestión (ej: `DEVs-SuperApps`, `PMPO-SuperApps`). El proceso de asignación a un grupo y su reflejo en los permisos de Github puede tardar más de 30 minutos.
+We design, build, modernize, and integrate software across the complete engineering lifecycle, from requirements and architecture to testing, deployment, and operations.
 
-*NOTA:* El paso 3 puede hacerse sin necesidad de ejecutar previamente pasos anteriores.
+We incorporate AI-assisted engineering practices where they provide value, supported by automated testing, code standards, human review, security controls, and DevSecOps practices.
 
-### Colaboradores Externos
+## Technology & Expertise
 
-En el caso de colaboradores externos, deben ser invitados a la organización como EXTERNOS y se deben otorgar luego los permisos corrrespondientes a los repositorios a los que necesite acceso.
+Our documented capabilities include:
+
+**Cloud & Application Platforms**
+
+`Microsoft Azure` · `Azure App Service` · `Azure DevOps`
+
+**Data & Analytics**
+
+`Microsoft Fabric` · `Power BI` · `Databricks`
+
+**AI & Intelligent Solutions**
+
+`Microsoft Foundry` · `Azure OpenAI` · `Microsoft 365 Copilot` · `Microsoft Copilot Studio`
+
+**Business Applications & Automation**
+
+`Microsoft Power Platform` · `Power Apps` · `Power Automate`
+
+**Software Engineering**
+
+`.NET` · `Application Architecture` · `Integration` · `Modernization` · `Quality Engineering` · `DevSecOps`
+
+**Security & Governance**
+
+`Microsoft Entra ID` · `Microsoft Defender` · `Microsoft Sentinel` · `Microsoft Intune` · `Microsoft Purview`
+
+Technology choices are driven by the business problem, existing architecture, security requirements, operational maturity, and adoption needs of each organization.
+
+## Engineering & Innovation
+
+At Possumus, engineering quality is part of the complete software lifecycle.
+
+Our engineering approach incorporates practices such as automated testing, code standards, human review, security controls, and DevSecOps to support reliable and maintainable solutions.
+
+We explore AI and emerging technologies with a focus on practical adoption. This means connecting experimentation with architecture, data readiness, governance, security, deployment, monitoring, and operational requirements.
+
+Where appropriate, architecture decisions are informed by frameworks such as the Microsoft Cloud Adoption Framework and Azure Well-Architected Framework.
+
+Collaboration, knowledge transfer, and continuous learning are also part of how we approach technology adoption, helping teams develop capabilities that can evolve beyond the initial implementation.
+
+## Connect With Us
+
+- **Website:** [possumus.tech](https://possumus.tech/)
+- **LinkedIn:** [Possumus](https://ar.linkedin.com/company/possumustech)
+- **Insights:** [Possumus Insights](https://grow.possumus.tech/es)
+- **Careers:** [Join Possumus](https://careers.possumus.tech/jobs)
+
+---
+
+<div align="center">
+
+**Build Software · Build Value · Positive Experiences**
+
+</div>
