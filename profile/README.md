@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="../assets/logo.png" alt="Possumus" width="220">
+
 # Possumus
 
 ### Engineering technology into sustainable business capabilities
